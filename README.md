@@ -41,5 +41,5 @@
 You need to run the next commands on your terminal
 
 ```
-    sudo chmod -R 777 file
+    sudo chmod -R 777 folder
 ```
